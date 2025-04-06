@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="WatchList.View.HomeView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WatchList.View" xmlns:WatchList="clr-namespace:WatchList"
+             mc:Ignorable="d" 
+             d:DesignHeight="535.508" d:DesignWidth="807.102">
+    <Grid>
+        <WrapPanel Name="joe" Margin="0,342,10,0">
+            <WatchList:moviePanel Height="16" Width="9"/>
+        </WrapPanel>
+        <Label Content="Mais Vistos" Foreground="White" FontSize="20" HorizontalAlignment="Left" Margin="10,304,0,0" VerticalAlignment="Top" Height="38" Width="113"/>
+        <Label Content="Descobrir" Foreground="White" FontSize="25" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" Height="43" Width="125"/>
+        <WrapPanel Name="recentes" Margin="0,83,10,250">
+            <WatchList:moviePanel Height="16" Width="9"/>
+        </WrapPanel>
+        <Label Content="Recentes" Foreground="White" FontSize="20" HorizontalAlignment="Left" Margin="10,45,0,0" VerticalAlignment="Top" Height="33" Width="98"/>
+    </Grid>
+</UserControl>

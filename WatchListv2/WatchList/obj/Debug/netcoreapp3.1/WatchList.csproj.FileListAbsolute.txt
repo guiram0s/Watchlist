@@ -1,0 +1,280 @@
+C:\Users\guial\source\repos\WatchList\WatchList\bin\Debug\netcoreapp3.1\WatchList.exe
+C:\Users\guial\source\repos\WatchList\WatchList\bin\Debug\netcoreapp3.1\WatchList.deps.json
+C:\Users\guial\source\repos\WatchList\WatchList\bin\Debug\netcoreapp3.1\WatchList.runtimeconfig.json
+C:\Users\guial\source\repos\WatchList\WatchList\bin\Debug\netcoreapp3.1\WatchList.runtimeconfig.dev.json
+C:\Users\guial\source\repos\WatchList\WatchList\bin\Debug\netcoreapp3.1\WatchList.dll
+C:\Users\guial\source\repos\WatchList\WatchList\bin\Debug\netcoreapp3.1\WatchList.pdb
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\WatchList.csproj.AssemblyReference.cache
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\WatchList_MarkupCompile.cache
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\WatchList_MarkupCompile.lref
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\WatchList.g.resources
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\WatchList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\WatchList.AssemblyInfoInputs.cache
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\WatchList.AssemblyInfo.cs
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\WatchList.csproj.CoreCompileInputs.cache
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\WatchList.dll
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\WatchList.pdb
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\WatchList.genruntimeconfig.cache
+C:\Users\guial\source\repos\WatchList\WatchList\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Core.dll
+C:\Users\guial\source\repos\WatchList\WatchList\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Material.dll
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\WatchList.csproj.CopyComplete
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\Register.g.cs
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\Register.baml
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\Login.baml
+C:\Users\guial\source\repos\WatchList\WatchList\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\guial\source\repos\WatchList\WatchList\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\guial\source\repos\WatchList\WatchList\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\guial\source\repos\WatchList\WatchList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\guial\source\repos\WatchList\WatchList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\guial\source\repos\WatchList\WatchList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\guial\source\repos\WatchList\WatchList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guial\source\repos\WatchList\WatchList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\HomeWindow.g.cs
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\MainPage.g.cs
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\HomeWindow.baml
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\MainPage.baml
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\Themes\MenuButtonTheme.baml
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\Themes\ModernButtonTheme.baml
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\Themes\TextBoxTheme.baml
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\View\HomeView.g.cs
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\View\HomeView.baml
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\View\DiscoveryView.g.cs
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\View\DiscoveryView.baml
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\MovieWindow.g.cs
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\MovieWindow.baml
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\View\ListView.g.cs
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\View\ListView.baml
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\View\AccountView.g.cs
+C:\Users\guial\source\repos\WatchList\WatchList\obj\Debug\netcoreapp3.1\View\AccountView.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\bin\Debug\netcoreapp3.1\WatchList.exe
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\bin\Debug\netcoreapp3.1\WatchList.deps.json
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\bin\Debug\netcoreapp3.1\WatchList.runtimeconfig.json
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\bin\Debug\netcoreapp3.1\WatchList.runtimeconfig.dev.json
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\bin\Debug\netcoreapp3.1\WatchList.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\bin\Debug\netcoreapp3.1\WatchList.pdb
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Core.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Material.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\WatchList.csproj.AssemblyReference.cache
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\Themes\MenuButtonTheme.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\Themes\ModernButtonTheme.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\Themes\TextBoxTheme.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\HomeWindow.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\MainPage.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\MovieWindow.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\Register.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\View\AccountView.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\View\DiscoveryView.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\View\HomeView.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\View\ListView.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\WatchList_MarkupCompile.cache
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\WatchList_MarkupCompile.lref
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\HomeWindow.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\Login.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\MainPage.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\MovieWindow.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\Register.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\View\AccountView.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\View\DiscoveryView.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\View\HomeView.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\View\ListView.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\WatchList.g.resources
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\WatchList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\WatchList.AssemblyInfoInputs.cache
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\WatchList.AssemblyInfo.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\WatchList.csproj.CoreCompileInputs.cache
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\WatchList.csproj.CopyComplete
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\WatchList.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\WatchList.pdb
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\WatchList.genruntimeconfig.cache
+C:\Users\guial\OneDrive\Ambiente de Trabalho\BACKUPS\WatchListTioNuno\WatchList\obj\Debug\netcoreapp3.1\Themes\Slider_Theme.baml
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\WatchList.exe
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\WatchList.deps.json
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\WatchList.runtimeconfig.json
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\WatchList.runtimeconfig.dev.json
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\WatchList.dll
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\WatchList.pdb
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Core.dll
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Material.dll
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.csproj.AssemblyReference.cache
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Themes\MenuButtonTheme.baml
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Themes\ModernButtonTheme.baml
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Themes\Slider_Theme.baml
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Themes\TextBoxTheme.baml
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\HomeWindow.g.cs
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\MainPage.g.cs
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\MovieWindow.g.cs
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Register.g.cs
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\AccountView.g.cs
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\DiscoveryView.g.cs
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\HomeView.g.cs
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\ListView.g.cs
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\App.g.cs
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList_MarkupCompile.cache
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList_MarkupCompile.lref
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\App.baml
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\HomeWindow.baml
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Login.baml
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\MainPage.baml
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\MovieWindow.baml
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Register.baml
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\AccountView.baml
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\DiscoveryView.baml
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\HomeView.baml
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\ListView.baml
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.g.resources
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.AssemblyInfoInputs.cache
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.AssemblyInfo.cs
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.csproj.CopyComplete
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.dll
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.pdb
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.genruntimeconfig.cache
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\PassRecoveryWindow.g.cs
+C:\xampp\htdocs\RC\zzzzWebPap\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\PassRecoveryWindow.baml
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\WatchList.exe
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\WatchList.deps.json
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\WatchList.runtimeconfig.json
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\WatchList.runtimeconfig.dev.json
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\WatchList.dll
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\WatchList.pdb
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Core.dll
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Material.dll
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.csproj.AssemblyReference.cache
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Themes\MenuButtonTheme.baml
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Themes\ModernButtonTheme.baml
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Themes\Slider_Theme.baml
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Themes\TextBoxTheme.baml
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\HomeWindow.g.cs
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\MainPage.g.cs
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\MovieWindow.g.cs
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\PassRecoveryWindow.g.cs
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Register.g.cs
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\AccountView.g.cs
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\DiscoveryView.g.cs
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\HomeView.g.cs
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\ListView.g.cs
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\App.g.cs
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList_MarkupCompile.cache
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList_MarkupCompile.lref
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\App.baml
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\HomeWindow.baml
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Login.baml
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\MainPage.baml
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\MovieWindow.baml
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\PassRecoveryWindow.baml
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Register.baml
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\AccountView.baml
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\DiscoveryView.baml
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\HomeView.baml
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\ListView.baml
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.g.resources
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.AssemblyInfoInputs.cache
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.AssemblyInfo.cs
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.csproj.CopyComplete
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.dll
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.pdb
+C:\xampp\htdocs\RC\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.genruntimeconfig.cache
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\WatchList.exe
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\WatchList.deps.json
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\WatchList.runtimeconfig.json
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\WatchList.runtimeconfig.dev.json
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\WatchList.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\WatchList.pdb
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Core.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Material.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.csproj.AssemblyReference.cache
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Themes\MenuButtonTheme.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Themes\ModernButtonTheme.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Themes\Slider_Theme.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Themes\TextBoxTheme.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\HomeWindow.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\MainPage.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\MovieWindow.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\PassRecoveryWindow.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Register.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\AccountView.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\DiscoveryView.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\HomeView.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\ListView.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList_MarkupCompile.cache
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList_MarkupCompile.lref
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\HomeWindow.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Login.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\MainPage.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\MovieWindow.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\PassRecoveryWindow.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\Register.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\AccountView.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\DiscoveryView.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\HomeView.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\View\ListView.baml
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.g.resources
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.AssemblyInfoInputs.cache
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.AssemblyInfo.cs
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.csproj.CoreCompileInputs.cache
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.csproj.CopyComplete
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.dll
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.pdb
+C:\Users\guial\OneDrive\Ambiente de Trabalho\PAP\PAP\WatchListV2\WatchList\obj\Debug\netcoreapp3.1\WatchList.genruntimeconfig.cache
