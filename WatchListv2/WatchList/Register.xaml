@@ -1,0 +1,193 @@
+﻿<Page x:Class="WatchList.Register"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WatchList" xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+      mc:Ignorable="d" 
+      Title="Register" Height="520" Width="380">
+
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="25"/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Border CornerRadius="10" Grid.RowSpan="3">
+                <Border.Background>
+                    <LinearGradientBrush>
+                        <GradientStop Color="#252525" Offset="0.0"/>
+                        <GradientStop Color="#055428" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+            </Border>
+
+            <Border CornerRadius="10,10,0,0" Background="#252525">
+            </Border>
+
+            <StackPanel Grid.Row="0" VerticalAlignment="Center">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="200"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+
+                    <Border Grid.ColumnSpan="2" >
+                        <Grid>
+                            <Label Content="WatchList" Foreground="White"/>
+
+                            <StackPanel HorizontalAlignment="Right" Orientation="Horizontal">
+
+                                <Button Width="20" Height="20"
+                                        Content="✕"
+                                        Background="Transparent"
+                                        BorderThickness="0"
+                                        Foreground="Gray"
+                                        FontWeight="Bold" Click="Button_Click_1"/>
+
+                            </StackPanel>
+                        </Grid>
+                    </Border>
+
+                </Grid>
+
+
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" VerticalAlignment="Center">
+                <Label Content="Label" Foreground="Red" Visibility="Hidden" Name="ErrorLabel" Margin="0,8,0,0"/>
+                <Image Source="C:\Users\guial\source\repos\WatchList\WatchList\Images\Logo_copy.png"  Width="400"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="2" >
+                <StackPanel Orientation="Horizontal">
+                    <TextBox FontFamily="Helvetica"
+                             FontWeight="Light"
+                             Text="Nome de utilizador"
+                             FontSize="20"
+                             HorizontalAlignment="Center"
+                             Foreground="White"
+                             Background="Transparent"
+                             BorderThickness="0"
+                             Width="233"
+                             HorizontalContentAlignment="Left"
+                             Opacity="0.5"
+                             Height="25"
+                             Margin="63,0,0,0"
+                             Name="Registo_username"
+                             GotFocus="Empty_Username"
+                             LostFocus="Fill_Username"/>
+                    <iconPacks:PackIconMaterial Kind="Account" 
+                                                VerticalAlignment="Center" 
+                                                HorizontalAlignment="Center" 
+                                                Foreground="White"/>
+                </StackPanel>
+                <Border Width="250"
+                        Height="2"
+                        Background="White"
+                        Opacity="0.5"/>
+
+
+
+                <Grid  Margin="0,20,0,0">
+                    <PasswordBox FontFamily="Helvetica"
+                             FontWeight="Light"
+                             Password="Password"
+                             FontSize="20"
+                             HorizontalAlignment="Left"
+                             Foreground="White"
+                             Background="Transparent"
+                             BorderThickness="0"
+                             Width="230"
+                             HorizontalContentAlignment="Left"
+                             Opacity="0.5"
+                             Height="25"
+                             Name="Registo_password"
+                             PasswordChar="•" Margin="63,0,0,0"
+                             GotFocus="Empty_Password"
+                             LostFocus="Fill_Password"/>
+
+                    <TextBox FontFamily="Helvetica"
+                             FontWeight="Light"                           
+                             FontSize="20"
+                             HorizontalAlignment="Left"
+                             Foreground="White"
+                             Background="Transparent"
+                             BorderThickness="0"
+                             Width="230"
+                             HorizontalContentAlignment="Left"
+                             Opacity="0.5"
+                             Height="25"
+                             Name="Registo_password_show"
+                             Text="Password"
+                             Visibility="Hidden"
+                             Margin="63,0,0,0"/>
+
+
+                    <Button Padding="2" HorizontalAlignment="Left"
+                            HorizontalContentAlignment="Center"
+                            VerticalContentAlignment="Center"
+                            Background="Transparent"
+                            BorderThickness="1"
+                            x:Name="btnPass"
+                            BorderBrush="White" Margin="293,0,0,0"
+                            PreviewMouseDown="OnMouseDown"
+                            PreviewMouseUp="OnMouseUp">
+
+                        <iconPacks:PackIconMaterial Kind="FormTextboxPassword" 
+                                                VerticalAlignment="Center" 
+                                                HorizontalAlignment="Center" 
+                                                Foreground="White"/>
+
+
+                    </Button>
+                </Grid>
+                <Border Width="250"
+                        Height="2"
+                        Background="White"
+                        Opacity="0.5"/>
+
+                <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+                    <TextBox FontFamily="Helvetica"
+                             FontWeight="Light"
+                             Text="Email"
+                             FontSize="20"
+                             HorizontalAlignment="Center"
+                             Foreground="White"
+                             Background="Transparent"
+                             BorderThickness="0"
+                             Width="233"
+                             HorizontalContentAlignment="Left"
+                             Opacity="0.5"
+                             Height="25"
+                             Margin="63,0,0,0"
+                             Name="Registo_email"
+                             GotFocus="Empty_Email"
+                             LostFocus="Fill_Email"/>
+                    <iconPacks:PackIconMaterial Kind="Email" 
+                                                VerticalAlignment="Center" 
+                                                HorizontalAlignment="Center" 
+                                                Foreground="White"/>
+                </StackPanel>
+                <Border Width="250"
+                        Height="2"
+                        Background="White"
+                        Opacity="0.5"/>
+
+              
+
+
+                <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+                    <Button Style="{StaticResource lognRegStyle}" Width="100" Height="40" Content="Back" Margin="60,0,60,0" Click="Button_Click"/>
+                    <Button Style="{StaticResource lognRegStyle}"  Width="100" Height="40" Content="REGISTER" Click="Button_Click_2"/>
+                </StackPanel>
+
+
+            </StackPanel>
+
+
+        </Grid>
+    </Grid>
+</Page>
