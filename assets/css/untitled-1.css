@@ -1,0 +1,7 @@
+.p-5 {
+  padding: 3rem !important;
+  /*background-image: linear-gradient(180deg, #252525 15%, #002D04 100%);*/
+  background-size: cover;
+  background-color: #252525;
+}
+
