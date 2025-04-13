@@ -58,13 +58,13 @@ The project employs several design principles:
 ``bash
 `git clone https://github.com/guiram0s/Watchlist.git`
 
-###2. Set Up the Database
+### 2. Set Up the Database
 
 Create a new SQL database.
 
 Import the provided SQL schema and data.
 
-###3. Configure Database Connection
+### 3. Configure Database Connection
    
 Update ligaBD.php with your database credentials:
 
@@ -73,7 +73,7 @@ $username = "your_username";
 $password = "your_password";
 $dbname = "your_database";
 
-###4. Deploy the Application
+### 4. Deploy the Application
 
 Place the project files in your web server's root directory.
 
