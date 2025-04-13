@@ -75,6 +75,14 @@ $dbname = "your_database";
 
 ### 4. Deploy the Application
 
-Place the project files in your web server's root directory.
+Place the project files in your web server’s root directory:
 
-Access the application via your web browser.
+htdocs for XAMPP
+
+www for WAMP
+
+Start your web server and database service (e.g., Apache + MySQL).
+
+Access the app in your browser at:
+
+http://localhost/Watchlist
