@@ -90,30 +90,30 @@ http://localhost/Watchlist
 ## Some ScreenShots from the App
 
 <p><strong>Login Screen</strong><br>
-<img src="https://github.com/user-attachments/assets/8448895e-423b-4b85-b77e-2aa42f9504e5" width="300">
+<img src="https://github.com/user-attachments/assets/8448895e-423b-4b85-b77e-2aa42f9504e5" width="250">
 </p>
 
 <p><strong>Admin WebPage to manage Users</strong><br>
-<img src="https://github.com/user-attachments/assets/f0f10af3-f12b-4a08-af63-5ffd143bd1c8" width="300">
+<img src="https://github.com/user-attachments/assets/f0f10af3-f12b-4a08-af63-5ffd143bd1c8" width="500">
 </p>
 
 <p><strong>Admin WebPage to manage movies</strong><br>
-<img src="https://github.com/user-attachments/assets/9d25f00e-2848-4b44-bde2-c363a54f9ea5" width="300">
+<img src="https://github.com/user-attachments/assets/9d25f00e-2848-4b44-bde2-c363a54f9ea5" width="500">
 </p>
 
 <p><strong>Admin WebPage to add movies</strong><br>
-<img src="https://github.com/user-attachments/assets/f0c1b102-0dd0-475a-8e06-8160829e092f" width="300">
+<img src="https://github.com/user-attachments/assets/f0c1b102-0dd0-475a-8e06-8160829e092f" width="500">
 </p>
 
 <p><strong>App Main Menu</strong><br>
-<img src="https://github.com/user-attachments/assets/7afbf3c2-38ed-47a6-a91b-29cb64a8dcb4" width="300">
+<img src="https://github.com/user-attachments/assets/7afbf3c2-38ed-47a6-a91b-29cb64a8dcb4" width="500">
 </p>
 
 <p><strong>App Movie Menu</strong><br>
-<img src="https://github.com/user-attachments/assets/a56104e1-bacf-48e9-ad3e-1a71d0d46e77" width="300">
+<img src="https://github.com/user-attachments/assets/a56104e1-bacf-48e9-ad3e-1a71d0d46e77" width="500">
 </p>
 
 <p><strong>App User WatchList Menu</strong><br>
-<img src="https://github.com/user-attachments/assets/63fd3c95-1728-494b-89eb-a68bae2fcd2d" width="300">
+<img src="https://github.com/user-attachments/assets/63fd3c95-1728-494b-89eb-a68bae2fcd2d" width="500">
 </p>
 
