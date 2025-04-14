@@ -117,7 +117,7 @@ http://localhost/Watchlist
 <img src="https://github.com/user-attachments/assets/7afbf3c2-38ed-47a6-a91b-29cb64a8dcb4" width="500">
 </p>
 
-<p><strong>App Movie Menu</strong><br>
+<p><strong>App Movie Menu </strong><br>
 <img src="https://github.com/user-attachments/assets/a56104e1-bacf-48e9-ad3e-1a71d0d46e77" width="500">
 </p>
 
