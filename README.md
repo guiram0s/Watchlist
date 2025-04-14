@@ -86,3 +86,8 @@ Start your web server and database service (e.g., Apache + MySQL).
 Access the app in your browser at:
 
 http://localhost/Watchlist
+
+## ScreenShots from the App
+
+*Login Screen
+![Screenshot 2025-04-14 142759](https://github.com/user-attachments/assets/8448895e-423b-4b85-b77e-2aa42f9504e5)
