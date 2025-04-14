@@ -92,7 +92,7 @@ namespace WatchList
                     client.EnableSsl = true;
 
                     
-                    client.Credentials = new System.Net.NetworkCredential(fromAddress, "yvwehcemolpqddvt");
+                    client.Credentials = new System.Net.NetworkCredential(fromAddress, "Watchlist email credential here");
 
                     
                     client.Send(message);
