@@ -18,6 +18,13 @@ An IMDb-inspired web application that allows users to explore and manage a perso
 
 The project comprises several key files and directories:
 
+App:
+- **`Contents/`**: Contains resources like images and movie trailers.
+- **`Images/`**: Images related to the App ex: Logo.
+- **`Scripts/`**: Folder with backend SQL scripts.
+- **`View/`**: Views from the App that contain pages like HomeView, AccountView, etc.
+
+Website:
 - **`assets/`**: Contains static resources like images, stylesheets, and scripts.
 - **`Filmes.php`**: Manages movie-related functionalities, possibly displaying movie lists or details.
 - **`InfoPage.php`**: Displays detailed information about a specific movie.
