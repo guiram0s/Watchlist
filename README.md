@@ -7,7 +7,7 @@ An IMDb-inspired web application that allows users to explore and manage a perso
 ## 🛠 Technologies Used
 
 - **PHP**: Backend scripting language for server-side logic.
-- **C#**: Utilized in certain components for backend services or integrations.
+- **C#**: Utilized for backend services and app development.
 - **JavaScript**: Enhances interactivity and dynamic content on the client side.
 - **CSS**: Styles the application, ensuring a responsive and visually appealing interface.
 - **SQL**: Manages and queries the relational database for storing user and movie information.
@@ -45,6 +45,7 @@ Website:
 - **Movie Exploration**: Browse and search for movies to add to a personal watchlist.
 - **Personalized Watchlist**: Users can curate a list of movies they intend to watch.
 - **Movie Details**: View comprehensive information about each movie, including synopsis, cast, and ratings.
+- **Password Recovery trough backup email**: Recover your account password trough your backup email.
 
 ---
 
